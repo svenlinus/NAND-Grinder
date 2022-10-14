@@ -19,3 +19,8 @@ Press "demo" in bottom right to see the model inputs and outputs
 
 Press "check" in bottom right to check of you correctly solved the puzzle
 * If wrong, nothing happens
+
+![Screen Shot 2022-10-13 at 7 35 26 PM](https://user-images.githubusercontent.com/67165825/195749161-80a44e72-a141-41ea-b20d-5662cd2cf783.png)
+
+![Screen Shot 2022-10-13 at 7 29 46 PM](https://user-images.githubusercontent.com/67165825/195748426-f7d15716-7fea-4ff0-9a87-926c55cb2c5a.png)
+
